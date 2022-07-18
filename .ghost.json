@@ -1,6 +1,6 @@
 {
   "development": {
-    "apiUrl": "https://ghostblog12.herokuapp.com"
+    "apiUrl": "https://ghostblog12.herokuapp.com",
     "contentApiKey": "800c8f52790ee8c8c4a4f176fb"
   },
   "production": {
